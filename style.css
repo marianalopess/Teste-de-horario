@@ -5,7 +5,7 @@ body {
     text-align: center;
 }
 header {
-    color: rgb(89, 33, 161);
+    color: #5921a1;
 }
 section {
     background-color: white;
@@ -15,8 +15,11 @@ section {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.37);
     margin: auto;
     max-width: 600px;
-    
+}
+img {
+    margin-top: 15px;
+    border-radius: 20px;
 }
 footer {
-    color: white;
+    color: #5921a1;
 }
